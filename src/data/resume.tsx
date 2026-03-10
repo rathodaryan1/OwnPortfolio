@@ -210,7 +210,7 @@ export const DATA = {
   education: [
     {
       school: "R.C. Technical Institute",
-      href: "https://rcti-comp.vercel.app/",
+      href: "https://rcti.ac.in",
       degree: "Diploma in Computer Engineering",
       logoUrl: "/RCTI_Logo.png",
       start: "2024",

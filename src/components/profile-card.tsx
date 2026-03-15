@@ -52,8 +52,10 @@ export default function ProfileCard() {
             />
           </div>
           <div>
-            <h2 className="text-xl font-bold dark:text-white text-black">Tirth</h2>
-            <p className="text-zinc-400 text-xs">@rathodtirth</p>
+            <h2 className="text-xl font-bold dark:text-white text-black">Aryan
+              
+            </h2>
+            <p className="text-zinc-400 text-xs">@rathodaryan</p>
           </div>
           <div className="flex w-full justify-end">
             <ModeToggle />
@@ -67,7 +69,7 @@ export default function ProfileCard() {
           </div>
 
           <p className="dark:text-zinc-300 text-zinc-800 text-xs leading-relaxed">
-            Hello, I&apos;m Tirth! a 18 year old developer based in Ahmedabad - India.
+            Hello, I&apos;m Aryan! a 16 year old developer based in Ahmedabad - India.
           </p>
         </div>
 
